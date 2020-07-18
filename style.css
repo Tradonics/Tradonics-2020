@@ -1,0 +1,15 @@
+html {
+  font-size: 14px;
+}
+
+/* Width of the viewport and display of font size*/
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.container {
+  max-width: 960px;
+}
+
