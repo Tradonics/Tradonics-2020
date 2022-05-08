@@ -1,4 +1,4 @@
-# Tradonics-2020
+# Tradonics
 
 - A web/react-app that is designed to make trading a simpler task. On TRADONICS, users have the freedom to trade anything they want, it ranges from business corporations to the smallest items. Also, companies can trade in between them. TRADONICS offers a chatting feature that can be private or public and allows individuals to discuss their trades. Trading transactions can be done between indiviuals, individuals and companies, and between companies.
 - Tech Stack: Python, JavaScript, ReactJS, HTML/CSS
